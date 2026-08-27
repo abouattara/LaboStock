@@ -1,0 +1,11 @@
+lab_id,lab_name,lab_type,responsable_nom,responsable_email,email_notif_2,pays,ville,seuil_alerte_pct,jours_alerte_j1,jours_alerte_j2,jours_alerte_j3,jours_alerte_j4,date_creation,created_by,lab_token
+LAB-0001,CMGD,institut,abdoulayeouattara739@gmail.com,cmgd.muraz@gmail.com,,bf,Bobo dioulasso,20,180,90,30,7,24/08/2026 22:01:29,username not found,A6BF277EC7D64BA7
+LAB-0002,TRIMOM,recherche,Dramane Kania,abdoulayeouattara739@gmail.com,,bf,Bobo dioulasso,20,180,90,30,7,24/08/2026 23:30:27,username not found,82D884E714284EE0
+LAB-0003,LNR,institut,Saidou Ouedraogo,abdoulayeouattara739@gmail.com,cmgd.muraz@gmail.com,bf,Ouaga,20,180,90,30,7,25/08/2026 22:05:01,username not found,79F7DBB5F0294AAE
+LAB-0004,CNRST,hopital,11,cmgd.muraz@gmail.com,,bf,Bobo dioulasso,20,180,90,30,7,26/08/2026 12:22:16,username not found,9197DCC918394603
+LAB-0005,ONSP,institut,Badolo,cmgd.muraz@gmail.com,,bf,Ouagadougou,20,180,90,30,7,26/08/2026 12:59:25,username not found,85A7EF7E61EB4197
+LAB-0006,INERA,institut,Ablo,abdoulayeouattara739@gmail.com,,bf,Bobo dioulasso,20,180,90,30,7,26/08/2026 22:31:35,username not found,BF8DBF87EBAC473A
+LAB-0007,CHUSS,institut,SANOU,abdoulayeouattara@gmail.com,englishclubpmp@gmail.com,bf,Bobo dioulasso,20,180,90,30,7,26/08/2026 22:49:54,username not found,21BA63D3FF104959
+LAB-0008,CHUSS,hopital,ALI,englishclubpmp@gmail.com,englishclubpmp@gmail.com,autre,Bobo dioulasso,20,180,90,30,7,26/08/2026 22:53:42,username not found,3726FA3A7683434D
+LAB-0009,TEST,hopital,Test,englishclubpmp@gmail.com,,bf,Bobo dioulasso,20,180,90,30,7,26/08/2026 23:04:07,username not found,4EE86D6B7BAC47F6
+LAB-0010,SAPHITO,recherche,Ablo,englishclubpmp@gmail.com,,bf,Bobo dioulasso,20,180,90,30,7,26/08/2026 23:19:11,username not found,4AC67455994E4DD8
