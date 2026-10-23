@@ -1,3 +1,4 @@
 name,label,lot_code,product_id,lab_id,date_peremption,quantite_restante
 LAB-0012-P001__1562,1562 - exp. 29/09/2026 (25 restants),1562,LAB-0012-P001,LAB-0012,2026-09-29,25
 LAB-0013-P001__A1,A1 - exp. 20/11/2026 (20 restants),A1,LAB-0013-P001,LAB-0013,2026-11-20,20
+LAB-0015-P001__46,46 - exp. 07/10/2027 (26 restants),46,LAB-0015-P001,LAB-0015,2027-10-07,26
